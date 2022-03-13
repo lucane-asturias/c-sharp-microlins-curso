@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\bin\Debug\ControleConsultorio.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\bin\Debug\ControleConsultorio.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\bin\Debug\ControleConsultorio.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.frmMedicos.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.frmPrincipal.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.frmConsultas.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.frmPacientes.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\ControleConsultorio\ControleConsultorio\obj\Debug\ControleConsultorio.csproj.CoreCompileInputs.cache

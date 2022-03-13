@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\bin\Debug\ConversaoDeTemperatura.exe.config
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\bin\Debug\ConversaoDeTemperatura.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\bin\Debug\ConversaoDeTemperatura.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.frmPrincipal.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.Properties.Resources.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.csproj.GenerateResource.Cache
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\ConversaoDeTemperatura\ConversaoDeTemperatura\obj\Debug\ConversaoDeTemperatura.pdb

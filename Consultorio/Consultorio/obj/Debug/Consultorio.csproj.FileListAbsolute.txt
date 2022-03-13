@@ -1,0 +1,10 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\bin\Debug\Consultorio.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.frmPrincipal.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Consultorio\Consultorio\obj\Debug\Consultorio.csproj.CoreCompileInputs.cache

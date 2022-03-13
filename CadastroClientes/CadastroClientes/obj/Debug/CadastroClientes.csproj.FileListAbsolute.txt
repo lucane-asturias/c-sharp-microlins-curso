@@ -1,0 +1,9 @@
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe.config
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.exe
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\bin\Debug\CadastroClientes.pdb
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csprojResolveAssemblyReference.cache
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.frmCadastro.resources
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.exe
+c:\users\lucas\documents\visual studio 2013\Projects\CadastroClientes\CadastroClientes\obj\Debug\CadastroClientes.pdb

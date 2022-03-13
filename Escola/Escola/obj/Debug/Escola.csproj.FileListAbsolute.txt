@@ -1,0 +1,10 @@
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\bin\Debug\Escola.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\bin\Debug\Escola.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\bin\Debug\Escola.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\obj\Debug\Escola.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\obj\Debug\Escola.frmControleDeAlunos.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\obj\Debug\Escola.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\obj\Debug\Escola.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\obj\Debug\Escola.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Escola\Escola\obj\Debug\Escola.pdb

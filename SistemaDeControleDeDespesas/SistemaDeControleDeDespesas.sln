@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaDeControleDeDespesas", "SistemaDeControleDeDespesas\SistemaDeControleDeDespesas.csproj", "{B19A296B-C3F9-4579-A313-EE42C11D095F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B19A296B-C3F9-4579-A313-EE42C11D095F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19A296B-C3F9-4579-A313-EE42C11D095F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19A296B-C3F9-4579-A313-EE42C11D095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19A296B-C3F9-4579-A313-EE42C11D095F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227C03E3-9E8D-4535-B169-5D524AFA7B81}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+c:\users\lucas\documents\visual studio 2013\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.frmPrincipal.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\bin\Debug\Pizzaria.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.exe
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.pdb
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.frmClientes.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.frmPizzas.resources
+C:\Users\Lucas\Documents\Visual Studio 2013\Projects\Pizzaria\Pizzaria\obj\Debug\Pizzaria.frmPedidos.resources

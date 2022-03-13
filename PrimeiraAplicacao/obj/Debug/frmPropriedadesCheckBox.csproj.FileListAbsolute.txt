@@ -1,0 +1,12 @@
+c:\users\lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\bin\Debug\frmPropriedadesCheckBox.exe.config
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\bin\Debug\frmPropriedadesCheckBox.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\bin\Debug\frmPropriedadesCheckBox.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.Properties.Resources.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.csproj.GenerateResource.Cache
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.frmVisualizadorImagens.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.frmPrincipal.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.frmPropriedadesCheckBox.resources
+C:\Users\Lucas\documents\visual studio 2013\Projects\frmPropriedadesCheckBox\obj\Debug\frmPropriedadesCheckBox.frmTabuada.resources
